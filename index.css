@@ -1,0 +1,30 @@
+.light{
+    height: 80px;
+    width: 80px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 20px;
+}
+#frame{
+    background-color: grey;
+    height: 298px;
+    width: 110px;
+    border-color: black;
+    border-style: solid;
+    border-width: 7px;
+    border-radius: 2%;
+    align-items: center;
+    margin: auto;
+}
+#redlight{
+    background-color: red;
+}
+#yellowlight{
+    background-color: yellow;
+}
+#greenlight{
+    background-color: green;
+}
